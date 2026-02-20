@@ -382,7 +382,7 @@ img {
 	width: 0;
 	height: 0;
 	border-radius: 50%;
-	background-color: #2C2A49;
+	background-color: #59351C;
 	transition: width 0.4s ease-in-out, height 0.4s ease-in-out;
 	transform: translate(-50%, -50%);
 	z-index: -1;
@@ -467,7 +467,7 @@ a.btn-1.btn-alt:hover {
 }
 
 ul.header-top-1-contact-info i {
-    color: var(--theme-color);
+    color: #FFDB9A;
     margin-right: 10px;
 }
 
@@ -1928,7 +1928,7 @@ ul.banner-social-icon li a:hover {
 /* footer style */
 
 .footer-1-top {
-    background: #262540;
+    background: #FFDB9A;
     padding: 41px 0;
 }
 
@@ -1951,7 +1951,7 @@ ul.banner-social-icon li a:hover {
 .footer-1-middle {
     position: relative;
     padding: 100px 0;
-    background: #2C2A49;
+    background: #E67986;
 }
 
 .footer-widget-title h4 {
@@ -1978,7 +1978,7 @@ ul.banner-social-icon li a:hover {
 
 .footer-bottom {
     position: relative;
-    background: #2C2A49;
+    background: #59351C;
     border-top: 1px solid rgba(255, 255, 255, 0.1);
     text-align: center;
     padding: 31px 0;
@@ -2258,7 +2258,7 @@ p.service-2-text {
 ul.about-1-list li {
     margin-bottom: 15px;
     position: relative;
-    color: #2C2A49;
+    color: #59351C;
 }
 
 ul.about-1-list li:before {
@@ -2823,7 +2823,7 @@ p.testimonial-1-desc {
 }
 
 .testimonial-1-quote-icon {
-    background: #FF7558;
+    background: #E6B8CB;
     box-shadow: 0px 20px 60px 10px rgba(0, 0, 0, 0.07);
     border-radius: 20px;
     position: absolute;
