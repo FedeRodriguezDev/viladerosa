@@ -5670,6 +5670,14 @@ section.faq-2-section .auto-container.p_relative {
     margin-top: -90px;
 }
 
+.whatsapp{
+    position: fixed;
+    right: 20px;
+    bottom: 180px;
+    width: 65px;
+    z-index: 2;
+}
+
 
 
 
