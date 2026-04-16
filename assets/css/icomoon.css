@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('../fonts/icomoon.eot?pdgqjf');
-  src:  url('../fonts/icomoon.eot?pdgqjf#iefix') format('embedded-opentype'),
-    url('../fonts/icomoon.ttf?pdgqjf') format('truetype'),
-    url('../fonts/icomoon.woff?pdgqjf') format('woff'),
-    url('../fonts/icomoon.svg?pdgqjf#icomoon') format('svg');
+  src:  url('../fonts/icomoon.eot?g7xzjp');
+  src:  url('../fonts/icomoon.eot?g7xzjp#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?g7xzjp') format('truetype'),
+    url('../fonts/icomoon.woff?g7xzjp') format('woff'),
+    url('../fonts/icomoon.svg?g7xzjp#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,20 +25,19 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-extintor:before {
+  content: "\ec3c";
+}
 .icon-gimnasio:before {
   content: "\ec38";
   color: #33436c;
 }
 .icon-lavadora:before {
   content: "\ec39";
-  color: #33436c;
 }
 .icon-musica:before {
   content: "\ec3a";
   color: #33436c;
-}
-.icon-tijera:before {
-  content: "\ec3b";
 }
 .icon-1:before {
   content: "\e900";
@@ -2079,6 +2078,9 @@
 }
 .icon-ungroup:before {
   content: "\eba7";
+}
+.icon-scissors1:before {
+  content: "\ec3b";
 }
 .icon-filter:before {
   content: "\eba8";
